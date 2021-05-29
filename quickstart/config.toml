@@ -1,4 +1,4 @@
 baseURL = "http://petervdb.com/"
 languageCode = "en-us"
 title = "Quickstart website Petervdb"
-theme = "ananke"
+theme = "mainroad"

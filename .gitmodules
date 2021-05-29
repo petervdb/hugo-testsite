@@ -1,3 +1,9 @@
 [submodule "quickstart/themes/ananke"]
 	path = quickstart/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "quickstart/themes/academic"]
+	path = quickstart/themes/academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git
+[submodule "quickstart/themes/mainroad"]
+	path = quickstart/themes/mainroad
+	url = https://github.com/vimux/mainroad
